@@ -3,7 +3,4 @@ uvicorn
 scikit-learn==1.6.1
 joblib
 numpy
-torch
-transformers
-sentencepiece
-protobuf
+python-multipart
